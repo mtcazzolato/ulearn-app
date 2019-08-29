@@ -4,7 +4,7 @@
 
 The ULEARn (**UL**cer Imag**E** **A**nalysis and **R**etrieval) framework aims to analyze and store skin ulcer images and related information. ULEARn-App is an Android app, which uses ULEARn's functionalities to support healthcare practitioners in the attendance of patients with skin ulcers.
 
-![ULEARn and ULEARn-App](https://github.com/mtcazzolato/ulearn-app/img/ulearn.png)
+![ULEARn and ULEARn-App](https://github.com/mtcazzolato/ulearn-app/blob/master/img/ulearn.png)
 
 ULEARn and ULEARn-App were proposed in the work [Cazzolato *et al.*, 2019], which will be presented at SBBD-2019:
 
