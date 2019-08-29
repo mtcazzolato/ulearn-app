@@ -35,15 +35,15 @@ Relevant links:
 *Work team:*
 >Mirela Cazzolato (Ph.D.)¹, Lucas Rodrigues (Msc. Student)¹, Lucas Scabora (Ph.D. Student)¹, Guilherme Zabot (Msc. Student)¹, Guilherme Vasconcelos (Msc. Student)¹, Daniel Chino (Ph.D.)¹, Ana Jorge (Ph.D., MD.)², Robson Cordeiro (Ph.D.)¹, Caetano Traina-Jr. (Ph.D.)¹, Agma Traina (Ph.D.)¹.
 
-¹ Authors are with the Institute of Mathematics and Computer Sciences of the University of São Paulo, Brazil.
-² Ana Jorge is with the Department of Physical Therapy of the Federal University of São Carlos, Brazil.
+¹ Authors are with the Institute of Mathematics and Computer Sciences of the University of São Paulo, Brazil.  
+² Ana Jorge is with the Department of Physical Therapy of the Federal University of São Carlos, Brazil.  
 
 ## Contact Information
 
 **We are open to collaborations!**
-In case of any interest on collaborations or for further information, please contact us through the following emails:
-mtcazzolato@gmail.com (Mirela Cazzolato)
-agma@icmc.usp.br (Agma Juci Machado Traina)
+In case of any interest on collaborations or for further information, please contact us through the following emails:  
+mtcazzolato@gmail.com (Mirela Cazzolato)  
+agma@icmc.usp.br (Agma Juci Machado Traina)  
 
 ## License and Citation Request
 
